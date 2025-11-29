@@ -1,6 +1,6 @@
 # QueueCTL - Background Job Queue System
 
-A production-grade CLI-based job queue system with worker processes, automatic retries with exponential backoff, and Dead Letter Queue (DLQ) support.
+A CLI-based job queue system with worker processes, automatic retries with exponential backoff, and Dead Letter Queue (DLQ) support.
 
 ## 🎯 Features
 
