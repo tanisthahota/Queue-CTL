@@ -4,15 +4,15 @@ A CLI-based job queue system with worker processes, automatic retries with expon
 
 ## 🎯 Features
 
-- ✅ **Job Enqueuing** — Add background jobs via CLI
-- ✅ **Multiple Workers** — Run concurrent worker processes with process locking
-- ✅ **Automatic Retries** — Failed jobs retry with exponential backoff
-- ✅ **Dead Letter Queue** — Permanently failed jobs moved to DLQ
-- ✅ **Persistent Storage** — Jobs persist across restarts (JSON-based)
-- ✅ **Graceful Shutdown** — Workers finish current job before stopping
-- ✅ **Configuration Management** — Configurable retry count and backoff
-- ✅ **Job Status Tracking** — Monitor jobs across all states
-- ✅ **DLQ Management** — View and retry failed jobs
+- ✅ **Job Enqueuing**               Add background jobs via CLI
+- ✅ **Multiple Workers**            Run concurrent worker processes with process locking
+- ✅ **Automatic Retries**           Failed jobs retry with exponential backoff
+- ✅ **Dead Letter Queue**           Permanently failed jobs moved to DLQ
+- ✅ **Persistent Storage**          Jobs persist across restarts (JSON-based)
+- ✅ **Graceful Shutdown**           Workers finish current job before stopping
+- ✅ **Configuration Management**    Configurable retry count and backoff
+- ✅ **Job Status Tracking**         Monitor jobs across all states
+- ✅ **DLQ Management**              View and retry failed jobs
 
 ## 📋 Job States
 
