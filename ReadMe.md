@@ -357,7 +357,7 @@ Queue-CTL/
 ├── setup.py               # Package setup
 ├── requirements.txt       # Dependencies
 ├── test_queuectl.py       # Test suite
-└── README.md              # This file
+└── ReadMe.md              # This file
 ```
 
 ### Key Components
@@ -445,18 +445,8 @@ MIT License - See LICENSE file for details
 
 ## 👤 Author
 
-Your Name
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+Tanistha Hota
 
 ---
 
-**Last Updated:** November 2025 
+**Last Updated:** November 2025
